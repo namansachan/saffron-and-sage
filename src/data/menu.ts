@@ -54,8 +54,9 @@ export const restaurantInfo: RestaurantInfo = {
     'A contemporary dining destination where traditional flavors meet modern craft. Our chefs source seasonal ingredients to create dishes that tell a story on every plate.',
   location: 'Bengaluru, India',
   address: '24 Lavelle Road, Bengaluru, KA 560001',
-  phone: '+91 80 4567 8900',
+  phone: '+91 1234567890',
   email: 'hello@saffronandsage.in',
+  instagram: 'https://www.instagram.com/buildwith_shaurya/',
   hours: [
     { day: 'Mon – Thu', time: '11:00 AM – 10:30 PM' },
     { day: 'Fri – Sat', time: '11:00 AM – 12:00 AM' },
