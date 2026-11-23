@@ -31,6 +31,7 @@ export interface RestaurantInfo {
   address: string;
   phone: string;
   email: string;
+  instagram: strings;
   hours: { day: string; time: string }[];
   rating: number;
   reviewsCount: number;
